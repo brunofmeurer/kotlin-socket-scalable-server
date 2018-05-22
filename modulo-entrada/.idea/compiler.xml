@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="modulo-entrada" />
+        <module name="modulo-persistencia" />
+        <module name="modulo-processamento" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="client-test" target="1.5" />
+      <module name="mod-persistencia" target="1.8" />
+      <module name="modulo-entrada" target="1.5" />
+      <module name="modulo-persistencia" target="1.5" />
+      <module name="modulo-persistencia (1)" target="1.8" />
+      <module name="modulo-processamento" target="1.5" />
+      <module name="modulo-teste" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
