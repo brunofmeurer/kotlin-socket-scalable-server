@@ -1,4 +1,4 @@
-# kotlin-socket-scalable
+# kotlin-socket-scalable-server
 Servidor modular feito em kotlin projetado para receber e enviar pacotes de forma relativa e escalável.
 
 # Modulo entrada
